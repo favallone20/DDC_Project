@@ -1,4 +1,4 @@
-# ProjectDDC
+# DCC_Project
 ## Synthesis of control policies from demonstrations for fully driverless trains
 Authors: 
 * Francesco Avallone <f.avallone20@studenti.unisa.it>
